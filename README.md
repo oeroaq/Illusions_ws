@@ -15,7 +15,8 @@ Complete la tabla:
 
 | Integrante | github nick |
 |------------|-------------|
-|            |             |
+|Fernando Vargas|    fevargasmo   |
+|Omar Roa|    oeroaq   |
 
 ## Discusión
 
@@ -23,14 +24,16 @@ Complete la tabla:
 
 | Ilusión | Categoria | Referencia | Tipo de interactividad (si aplica) | URL código base (si aplica) |
 |---------|-----------|------------|------------------------------------|-----------------------------|
-|         |           |            |                                    |                             |
-|         |           |            |                                    |                             |
-|         |           |            |                                    |                             |
-|         |           |            |                                    |                             |
-|         |           |            |                                    |                             |
-|         |           |            |                                    |                             |
+|Distorsión del espacio|COGNITIVE |[openprocessing](https://www.openprocessing.org/collection/1386)|MOVIMIENTO DEL PUNTERO|[src](https://www.openprocessing.org/sketch/168636)|
+|Distorsión profundidad|COGNITIVE |[openprocessing](https://www.openprocessing.org/collection/1386)|MOVIMIENTO DEL PUNTERO|[src](https://www.openprocessing.org/sketch/152235)|
+|   Cubo  | COGNITIVE - GEOMETRIC|[michaelbach](http://www.michaelbach.de/ot/)|N/A|                             |
+|Movimiento discontinuo|MOVEMENT|[openprocessing](https://www.openprocessing.org/collection/1386)|N/A|[src](https://www.openprocessing.org/sketch/168574)|
+|Distorsión tamaño|COGNITIVE|[michaelbach](http://www.michaelbach.de/ot/)|MOVIMIENTO DEL PUNTERO|                             |
+|Espiral circulos|COGNITIVE - MOVEMENT|[openprocessing](https://www.openprocessing.org/sketch/164071)|N/A|[src](https://www.openprocessing.org/sketch/164071)|
 
 2. Describa brevememente las referencias estudiadas y los posibles temas en los que le gustaría profundizar:
+
+Se hace uso de principalmente las dos fuentes mencionadas en la tyabla anterior ([openprocessing](https://www.openprocessing.org/collection/1386) y [michaelbach](http://www.michaelbach.de/ot/)) en donde se encuentran, mas que todo en la segunda referencia una lista de ilusiones quie se esplica su forma y concepcion y el como puede hacerse para copnstruirlas.
 
 ## Entrega
 
