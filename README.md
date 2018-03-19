@@ -33,7 +33,7 @@ Complete la tabla:
 
 2. Describa brevememente las referencias estudiadas y los posibles temas en los que le gustaría profundizar:
 
-Se hace uso de principalmente las dos fuentes mencionadas en la tyabla anterior ([openprocessing](https://www.openprocessing.org/collection/1386) y [michaelbach](http://www.michaelbach.de/ot/)) en donde se encuentran, mas que todo en la segunda referencia una lista de ilusiones quie se esplica su forma y concepcion y el como puede hacerse para copnstruirlas.
+Se hace uso de principalmente las dos fuentes mencionadas en la tabla anterior ([openprocessing](https://www.openprocessing.org/collection/1386) y [michaelbach](http://www.michaelbach.de/ot/)) en donde se encuentran, mas que todo en la segunda referencia una lista de ilusiones quie se esplica su forma y concepcion y el como puede hacerse para copnstruirlas.
 
 ## Entrega
 
